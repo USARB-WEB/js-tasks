@@ -13,24 +13,24 @@ Your repository structure must be the following:
 tasks
 |-- JavaScript Fundamentals
     |-- if-else
-        |-- index.js
+        |-- index.html
         |-- app.js
     |-- if-else-and-or
-        |-- index.js
+        |-- index.html
         |-- app.js
     |-- switch-case
-        |-- index.js
+        |-- index.html
         |-- app.js
     |-- ...
 |-- Arrays
     |-- array-processing
-        |-- index.js
+        |-- index.html
         |-- app.js
     |-- array-methods
-        |-- index.js
+        |-- index.html
         |-- app.js
     |-- destructuring-assignment
-        |-- index.js
+        |-- index.html
         |-- app.js
 |-- ....
 ```
